@@ -1,0 +1,10 @@
+{
+  "name": "GigSuraksha AI",
+  "short_name": "GigSuraksha",
+  "description": "AI-powered income protection for delivery partners",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1a5091",
+  "icons": []
+}
